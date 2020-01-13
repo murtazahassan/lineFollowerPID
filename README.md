@@ -9,13 +9,10 @@ Learn How to build a PID Line Follower. With Basic Components such as Arduino, L
 #PID
 
 Affiliate Links: 
-DC Motors + Wheels + Chassis: https://amzn.to/2SCZon3
-DC Motors + Wheels: https://amzn.to/2QeEusw
 Arduino UNO: https://amzn.to/2QdKthB
 Motor Driver: https://amzn.to/35grl6x
-PixyCam:https://amzn.to/2FaVDx3	
-Battery: https://amzn.to/2Fadc0c
-LED Strip: https://amzn.to/2SD2qrr
+
+
 
 For daily updates : 
 https://www.instagram.com/murtazasworkshop/
